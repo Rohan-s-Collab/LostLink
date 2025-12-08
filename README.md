@@ -77,9 +77,7 @@ _(Full list in code)_
 The attachments include the core website functions + admin dashboard and it includes screenshots of the mails and call done by AI agent.
 
 ![1751479924237](https://github.com/user-attachments/assets/a07b75f3-78a6-43d4-9fbd-3b7c20d54c9e)
-![1751479924220](https://github.com/user-attachments/assets/39090ef8-3a27-4e4d-aca7-64c32a391d40)
 
-![1751479924263](https://github.com/user-attachments/assets/0566edd4-74e6-4438-ad68-70c02f771aeb)
 
 ![1751479924241](https://github.com/user-attachments/assets/e523c883-130d-4b9d-bc29-84ffb2cdf3bd)
 ![1751479924224](https://github.com/user-attachments/assets/f60d3b2e-d7b0-45b2-8c20-a0420896c37e)
